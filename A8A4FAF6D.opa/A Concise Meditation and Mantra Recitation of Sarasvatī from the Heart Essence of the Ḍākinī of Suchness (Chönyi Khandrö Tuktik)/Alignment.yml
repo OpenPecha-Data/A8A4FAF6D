@@ -1,0 +1,22 @@
+segment_sources:
+  P51238C67:
+    type: origin_type
+    relation: translation
+    language: en
+  PE2BC9B8A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bb81f3e5ae644e8b8816d811fe063b0b:
+    P51238C67: c3cec3c109c249e1b259ed72843ae2fb
+    PE2BC9B8A: d3d165b3a4604bd09b2285d198cf50b3
+  9e626337ade04597ba17e3fbc594f31d:
+    P51238C67: 4e40195352244c73a0b13cf8b2e4100e
+    PE2BC9B8A: 4deca89c1abc4cf482af8f93e2f31041
+  40fceb995433443fb12aed4d16158c08:
+    P51238C67: fe46f16476944d4eb65044fbd483427c
+    PE2BC9B8A: df316c46346a4988b26f305028872070
+  34363c4f544b46c3850865690942dc8b:
+    P51238C67: e10e07f312bb431888bed48f04d286ba
+    PE2BC9B8A: 52fd1ac42e61463f90e2dabbf4887470
